@@ -1,6 +1,6 @@
 # readme
 
-- My Name:
-- My Date of Birth:
-- My Computer of Choice:
-- My Favorite Movie:
+- My Name: Kevin Lantz  
+- My Date of Birth:07/15/1990
+- My Computer of Choice: Windows
+- My Favorite Movie: Yes man
